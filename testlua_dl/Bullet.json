@@ -1,0 +1,17 @@
+[
+	{
+
+	},
+	{
+		"name": "normal bullet",
+		"speed": 20,
+		"damage": 1,
+		"image": "bullet1.png"
+	},
+	{
+		"name": "double bullet",
+		"speed": 20,
+		"damage": 1,
+		"image": "bullet2.png"
+	}
+]

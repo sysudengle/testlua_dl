@@ -1,0 +1,6 @@
+{
+	"name": "player",
+	"damage": 1,
+	"isAlive": true,
+	"image": "hero1.png"
+}

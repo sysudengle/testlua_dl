@@ -1,0 +1,27 @@
+[
+	{
+		"speedFloor": -15,
+		"speedRange": -30
+	},
+	{
+		"name": "small enemy",
+		"hp": 1,
+		"level": 1,
+		"score": 100,
+		"image": "enemy1.png"
+	},
+	{
+		"name": "middle enemy",
+		"hp": 5,
+		"level": 1,
+		"score": 700,
+		"image": "enemy2.png"
+	},
+	{
+		"name": "big enemy",
+		"hp": 10,
+		"level": 1,
+		"score": 3000,
+		"image": "enemy3_n1.png"
+	}
+]

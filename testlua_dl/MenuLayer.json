@@ -1,0 +1,6 @@
+{
+	"gamePauseImageNor": "game_pause_nor.png",
+	"gamePauseImagePress": "game_pause_pressed.png",
+	"gameResumeImageNor": "game_resume_nor.png",
+	"gameResumeImagePress": "game_resume_pressed.png"
+}
